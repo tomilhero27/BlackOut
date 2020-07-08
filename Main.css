@@ -1,0 +1,14 @@
+:root{
+    --title-color: #00ff6a;
+    --primary-color: rgb(139, 0, 253);
+}
+html{
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

@@ -1,0 +1,350 @@
+
+@media (max-width: 1300px){
+    /*escrita*/
+    body {
+        background-color: rgb(0, 0, 0);
+        background-size: 135vw 
+
+    }
+    main{
+        padding-left: 10px;
+
+    }
+    main h1{
+        font-size: 50px;
+        margin-bottom: 50px;
+    }
+    p {
+        font-size: 25px;
+        color: whitesmoke;
+        margin-bottom: 25px;
+      
+    }
+
+  /*logos*/
+    header a {
+        font-size: 20px;
+    }
+
+    header a span{
+        height: 20px;
+    }
+}
+@media (max-width: 1100px){
+       /*escrita*/
+       body {
+ 
+        background-color: rgb(0, 0, 0);
+        background-size:  110vw 110vh;
+    }
+    
+    main{
+     padding: 0;
+
+    }
+    main h1{
+        font-size: 50px;
+        padding-left: 100px;
+        padding-top: 100px;
+        padding-bottom: 200px;
+    }
+    p {
+        font-size: 40px;
+        color: rgb(0, 217, 255);  
+        padding-left: 150px;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+    .festa {
+        color: rgb(255, 255, 255);
+    }
+  /*logos*/
+    header a {
+        font-size: 25px;
+        width: 100px;
+        padding-right: 0px;
+        padding-left: 0;
+        justify-content:  space-evenly;
+    }
+    header img {
+        width: 300px;
+    }
+    header a span{
+        height: 20px;
+        padding-left: 20px;
+
+    }
+}
+@media (max-width: 1000px){
+       /*escrita*/
+       body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+
+    }
+    
+    main{
+     padding: 0;
+
+    }
+    main h1{
+        font-size: 40px;
+        padding-left: 40px;
+        padding-top: 200px;
+        padding-bottom: 1px;
+        
+    }
+    p {
+        font-size: 30px;
+        color: rgb(0, 217, 255);  
+        padding-left: 110px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .festa {
+        color: rgb(255, 255, 255);
+    }
+  /*logos*/
+    header a {
+        font-size: 15px;
+        width: 100px;
+        padding-right: 5px;
+        padding-left: 0;
+
+    }
+    header img {
+        width: 130px;
+    }
+    header a span{
+        height: 20px;
+        padding-left: 20px;
+
+    }
+}
+@media (max-width: 800px){
+        /*escrita*/
+        body {
+            background-image: url(../img/fundo.gif);
+            background-color: rgb(0, 0, 0);
+            background-size: 85vh 190vw;
+    
+        }
+        
+        main{
+         padding: 0;
+    
+        }
+        main h1{
+            font-size: 40px;
+            padding-left: 30px;
+            padding-top: 240px;
+            padding-bottom: 1px;
+        }
+        p {
+            font-size: 30px;
+            color: rgb(0, 217, 255);  
+            padding-left: 95px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        .festa {
+            color: rgb(255, 255, 255);
+        }
+      /*logos*/
+        header a {
+            font-size: 20px;
+            width: 100px;
+            padding: 0;
+    
+        }
+        header img {
+            width: 150px;
+        }
+        header a span{
+            height: 20px;
+            padding-left: 20px;
+    
+        }
+    }
+@media (max-width: 414px){
+       /*escrita*/
+       body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+
+    }
+    
+    main{
+     padding: 0;
+
+    }
+    main h1{
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 240px;
+        padding-bottom: 1px;
+    }
+    p {
+        font-size: 20px;
+        color: rgb(0, 217, 255);  
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .festa {
+        color: rgb(255, 255, 255);
+    }
+  /*logos*/
+    header a {
+        font-size: 20px;
+        width: 100px;
+        padding: 0;
+
+    }
+    header img {
+        width: 150px;
+    }
+    header a span{
+        height: 20px;
+        padding-left: 20px;
+
+    }
+}
+@media (max-width: 375px){
+       /*escrita*/
+       body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+
+    }
+    
+    main{
+     padding: 0;
+
+    }
+    main h1{
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 150px;
+        padding-bottom: 1px;
+    }
+    p {
+        font-size: 20px;
+        color: rgb(0, 217, 255);  
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .festa {
+        color: rgb(255, 255, 255);
+    }
+  /*logos*/
+    header a {
+        font-size: 15px;
+        width: 100px;
+        padding-right: 5px;
+        padding-left: 0;
+
+    }
+    header img {
+        width: 130px;
+    }
+    header a span{
+        height: 20px;
+        padding-left: 20px;
+
+    }
+}
+@media (max-width: 360px){
+    /*escrita*/
+    body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+
+    }
+    
+    main{
+     padding: 0;
+
+    }
+    main h1{
+        font-size: 25px;
+        padding-left: 50px;
+        padding-top: 200px;
+        padding-bottom: 10px;
+    }
+    p {
+        font-size: 20px;
+        color: rgb(0, 217, 255);  
+        padding-left: 25px;
+        padding-top: 50px;
+    }
+    .festa {
+        color: rgb(255, 255, 255);
+    }
+  /*logos*/
+    header a {
+        font-size: 20px;
+        width: 200px;
+        padding-left: 50px;
+
+    }
+    header img {
+        width: 150px;
+    }
+    header a span{
+        height: 20px;
+        padding-left: 20px;
+
+    }
+}
+@media (max-width: 320px){
+       /*escrita*/
+       body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+
+    }
+    
+    main{
+     padding: 0;
+
+    }
+    main h1{
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 150px;
+        padding-bottom: 1px;
+    }
+    p {
+        font-size: 20px;
+        color: rgb(0, 217, 255);  
+        padding-left: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .festa {
+        color: rgb(255, 255, 255);
+    }
+  /*logos*/
+    header a {
+        font-size: 15px;
+        width: 100px;
+        padding-right: 5px;
+        padding-left: 0;
+
+    }
+    header img {
+        width: 130px;
+    }
+    header a span{
+        height: 20px;
+        padding-left: 20px;
+
+    }
+}
