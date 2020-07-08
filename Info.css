@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    background-image: url('logo.png');
+    background-size: 100vw;
+ }
+ h2 {
+    color: whitesmoke;
+    padding-top: 150px ;
+    padding-left: 50px;
+    padding-bottom: 0px;
+    font-size: 35px;
+}
+ h1 {
+     color: whitesmoke;
+     padding-left: 50px;
+     padding-bottom: 0px;
+     font-size  : 35px;
+     font: bold;
+}
+ a {
+ width: 50%;
+max-width: 100px;
+color: whitesmoke;
+display: flex;
+align-items: center;
+font-size: 25px;
+transition: 400ms;
+font-weight: bold;
+ }
+
+ .btn{
+
+     margin-right: auto;
+     padding-left: 50px;
+     color: rgb(55, 60, 65);
+     padding-bottom: 10px;
+ }
+ .btn1 {
+     display: inline-flex;
+     padding-left: 50px;
+     color: rgb(0, 17, 255);
+ }
+ .btn2{
+    display: inline-flex;
+    padding-left: 250px;
+    color: rgb(255, 0, 234);
+ }

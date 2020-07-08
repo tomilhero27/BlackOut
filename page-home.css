@@ -2,7 +2,8 @@
 body{
     background-color: black;
     background-image: url('balckout.jpg ');
-    background-size: 100vw;
+    background-size: 100% 100%;
+
  }
 .content{
     width: 90%;
@@ -20,6 +21,7 @@ header{
     justify-content: space-between;
 
 }
+
 a {
     display: flex;
     color: var(--title-color);
@@ -42,23 +44,24 @@ main {
 }
 main h1 {
     font-size: 50px;
-    color: var(--title-color);
+    color:  rgb(46, 46, 46);
     padding-left: 200px;
-    padding-top: 150px;
+    padding-top: 90px;
+    
 }
  p {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 25px;
-    color: aqua;
-    padding-top: 250px;
+    margin-bottom: 10px;
+    color: rgb(55, 61, 61);
+    padding-top: 280px;
     padding-left: 250px;
 
  }
 main a{
     width: 100%;
     max-width: 360px;
-    background: var(--primary-color);
+    background-color: rgb(80, 80, 80) ;
     height: 72px;
     border-radius: 8px 30px;
     display: flex;
@@ -74,12 +77,12 @@ margin-right: auto;
 margin-left: auto;
 }   
 main a:hover {
-    background-color: rgba(132, 0, 255, 0.795);
+    background-color: rgba(36, 22, 22, 0.795);
 }
 main a span {
     width: 80px;
     height: 72px;
-    background-color: rgba(0, 0, 0, 0.08);
+    background-color: rgba(73, 66, 66, 0.08);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -96,4 +99,5 @@ main a span strong {
     color: whitesmoke;
     text-align: center;
 }
+
 
