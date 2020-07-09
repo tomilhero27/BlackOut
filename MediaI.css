@@ -51,7 +51,7 @@
 @media (max-width: 1100px){
          /*escrita*/
          body {
-            background-image: url(../img/fundo.gif);
+            background-image: url(fundo.gif);
             background-color: rgb(0, 0, 0);
             background-size: 85vh 190vw;
         }
@@ -100,7 +100,7 @@
 @media (max-width: 1000px){
          /*escrita*/
          body {
-            background-image: url(../img/fundo.gif);
+            background-image: url(fundo.gif);
             background-color: rgb(0, 0, 0);
             background-size: 85vh 190vw;
         }
@@ -149,7 +149,7 @@
 @media (max-width: 800px){
          /*escrita*/
          body {
-            background-image: url(../img/fundo.gif);
+            background-image: url(fundo.gif);
             background-color: rgb(0, 0, 0);
             background-size: 85vh 190vw;
         }
@@ -198,7 +198,7 @@
 @media (max-width: 414px){
         /*escrita*/
         body {
-            background-image: url(../img/fundo.gif);
+            background-image: url(fundo.gif);
             background-color: rgb(0, 0, 0);
             background-size: 85vh 190vw;
         }
@@ -246,7 +246,7 @@
 @media (max-width: 375px){
        /*escrita*/
        body {
-        background-image: url(../img/fundo.gif);
+        background-image: url(fundo.gif);
         background-color: rgb(0, 0, 0);
         background-size: 85vh 190vw;
     }
@@ -297,7 +297,7 @@
 @media (max-width: 360px){
         /*escrita*/
         body {
-            background-image: url(../img/fundo.gif);
+            background-image: url(fundo.gif);
             background-color: rgb(0, 0, 0);
             background-size: 85vh 190vw;
         }
@@ -342,7 +342,7 @@
 @media (max-width: 320px){
        /*escrita*/
        body {
-        background-image: url(../img/fundo.gif);
+        background-image: url(fundo.gif);
         background-color: rgb(0, 0, 0);
         background-size: 85vh 190vw;
     }
