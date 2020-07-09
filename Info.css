@@ -34,6 +34,7 @@ font-weight: bold;
      padding-left: 50px;
      color: rgb(55, 60, 65);
      padding-bottom: 10px;
+     padding-left: 220px;
  }
  .btn1 {
      display: inline-flex;
@@ -43,5 +44,6 @@ font-weight: bold;
  .btn2{
     display: inline-flex;
     padding-left: 250px;
+    padding-top: 50px;
     color: rgb(255, 0, 234);
  }

@@ -1,0 +1,381 @@
+
+@media (max-width: 1300px){
+    body{
+        background-color: black;
+        background-image: url('logo.png');
+        background-size: 100vw;
+     }
+     h2 {
+        color: whitesmoke;
+        padding-top: 150px ;
+        padding-left: 50px;
+        padding-bottom: 0px;
+        font-size: 35px;
+    }
+     h1 {
+         color: whitesmoke;
+         padding-left: 50px;
+         padding-bottom: 0px;
+         font-size  : 35px;
+         font: bold;
+    }
+     a {
+     width: 50%;
+    max-width: 100px;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    font-size: 25px;
+    transition: 400ms;
+    font-weight: bold;
+     }
+    
+     .btn{
+    
+         margin-right: auto;
+         padding-left: 50px;
+         color: rgb(55, 60, 65);
+         padding-bottom: 10px;
+     }
+     .btn1 {
+         display: inline-flex;
+         padding-left: 50px;
+         color: rgb(0, 17, 255);
+     }
+     .btn2{
+        display: inline-flex;
+        padding-left: 250px;
+        color: rgb(255, 0, 234);
+     }
+    }
+@media (max-width: 1100px){
+         /*escrita*/
+         body {
+            background-image: url(../img/fundo.gif);
+            background-color: rgb(0, 0, 0);
+            background-size: 85vh 190vw;
+        }
+        
+        
+        h1{
+            font-size: 200px;
+            padding-left: 200px;
+            padding-top: 0px;
+            padding-bottom: 1px;
+            font-size: 50px;
+        }
+        h2 {
+            font-size: 400px;
+            padding-left: 200px;
+            padding-top: 300px;
+            padding-bottom: 1px;
+            font-size: 50px;
+        }
+        p {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+        }
+        .btn {
+            padding-bottom: 250px;
+            padding-top: 200px;
+            padding-left: 350px;
+            color: rgb(0, 255, 34);
+            font-size: 100px;
+        }
+        .btn2 {
+            padding-left: 100px;
+            padding-top: 100px;
+            color: rgb(255, 0, 234);
+            font-size: 80px;
+        }
+        .btn1 {
+            position: fixed;
+            padding-left: 700px;
+            padding-top: 100px;
+            color: rgb(0, 17, 255);
+            font-size: 80px;
+        }
+    }
+@media (max-width: 1000px){
+         /*escrita*/
+         body {
+            background-image: url(../img/fundo.gif);
+            background-color: rgb(0, 0, 0);
+            background-size: 85vh 190vw;
+        }
+        
+        
+        h1{
+            font-size: 30px;
+            padding-left: 100px;
+            padding-top: 0px;
+            padding-bottom: 1px;
+            font-size: 50px;
+        }
+        h2 {
+            font-size: 30px;
+            padding-left: 100px;
+            padding-top: 80px;
+            padding-bottom: 1px;
+            font-size: 50px;
+        }
+        p {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+        }
+        .btn {
+            padding-bottom: 200px;
+            padding-top: 50px;
+            padding-left: 250px;
+            color: rgb(0, 255, 34);
+            font-size: 50px;
+        }
+        .btn2 {
+            padding-left: 100px;
+            padding-top: 150px;
+            color: rgb(255, 0, 234);
+            font-size: 50px;
+        }
+        .btn1 {
+            position: fixed;
+            padding-left: 480px;
+            padding-top: 150px;
+            color: rgb(0, 17, 255);
+            font-size: 50px;
+        }
+    }
+@media (max-width: 800px){
+         /*escrita*/
+         body {
+            background-image: url(../img/fundo.gif);
+            background-color: rgb(0, 0, 0);
+            background-size: 85vh 190vw;
+        }
+        
+        
+        h1{
+            font-size: 30px;
+            padding-left: 100px;
+            padding-top: 0px;
+            padding-bottom: 1px;
+            font-size: 50px;
+        }
+        h2 {
+            font-size: 30px;
+            padding-left: 100px;
+            padding-top: 80px;
+            padding-bottom: 1px;
+            font-size: 50px;
+        }
+        p {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+        }
+        .btn {
+            padding-bottom: 200px;
+            padding-top: 50px;
+            padding-left: 250px;
+            color: rgb(0, 255, 34);
+            font-size: 50px;
+        }
+        .btn2 {
+            padding-left: 100px;
+            padding-top: 150px;
+            color: rgb(255, 0, 234);
+            font-size: 50px;
+        }
+        .btn1 {
+            position: fixed;
+            padding-left: 480px;
+            padding-top: 150px;
+            color: rgb(0, 17, 255);
+            font-size: 50px;
+        }
+    }
+@media (max-width: 414px){
+        /*escrita*/
+        body {
+            background-image: url(../img/fundo.gif);
+            background-color: rgb(0, 0, 0);
+            background-size: 85vh 190vw;
+        }
+        
+        
+        h1{
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+            padding-bottom: 1px;
+        }
+        h2 {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 80px;
+            padding-bottom: 1px;
+            margin: auto;
+        }
+        p {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+        }
+        .btn {
+            padding-bottom: 200px;
+            padding-top: 50px;
+            padding-left: 100px;
+            color: rgb(0, 255, 34);
+            font-size: 50px;
+        }
+        .btn2 {
+            padding-left: 30px;
+            padding-top: 50px;
+            color: rgb(255, 0, 234);
+            font-size: 30px;
+        }
+        .btn1 {
+            position: fixed;
+            padding-left: 250px;
+            padding-top: 50px;
+            color: rgb(0, 17, 255);
+            font-size: 30px;
+        }
+    }
+@media (max-width: 375px){
+       /*escrita*/
+       body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+    }
+    
+    
+    h1{
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 0px;
+        padding-bottom: 1px;
+    }
+    h2 {
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 80px;
+        padding-bottom: 1px;
+        margin: auto;
+    }
+    p {
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 0px;
+    }
+    .btn {
+        padding-bottom: 50px;
+        padding-top: 50px;
+        padding-left: 130px;
+        color: rgb(0, 255, 34);
+    }
+    .btn2 {
+        padding-left: 30px;
+        padding-top: 90px;
+        color: rgb(255, 0, 234);
+    }
+    .btn1 {
+        position: fixed;
+        padding-left: 220px;
+        padding-top: 90px;
+        color: rgb(0, 17, 255);
+    }
+}
+@media (max-width: 360px){
+        /*escrita*/
+        body {
+            background-image: url(../img/fundo.gif);
+            background-color: rgb(0, 0, 0);
+            background-size: 85vh 190vw;
+        }
+        
+        
+        h1{
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+            padding-bottom: 1px;
+        }
+        h2 {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 80px;
+            padding-bottom: 1px;
+            margin: auto;
+        }
+        p {
+            font-size: 30px;
+            padding-left: 30px;
+            padding-top: 0px;
+        }
+        .btn {
+            padding-bottom: 50px;
+            padding-top: 50px;
+            padding-left: 130px;
+            color: rgb(0, 255, 34);
+        }
+        .btn2 {
+            padding-left: 30px;
+            padding-top: 90px;
+            color: rgb(255, 0, 234);
+        }
+        .btn1 {
+            position: fixed;
+            padding-left: 220px;
+            padding-top: 90px;
+            color: rgb(0, 17, 255);
+        }
+    }
+@media (max-width: 320px){
+       /*escrita*/
+       body {
+        background-image: url(../img/fundo.gif);
+        background-color: rgb(0, 0, 0);
+        background-size: 85vh 190vw;
+    }
+    
+    
+    h1{
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 0px;
+        padding-bottom: 1px;
+    }
+    h2 {
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 80px;
+        padding-bottom: 1px;
+        margin: auto;
+    }
+    p {
+        font-size: 30px;
+        padding-left: 30px;
+        padding-top: 0px;
+    }
+    .btn {
+        padding-bottom: 30px;
+        padding-top: 20px;
+        padding-left: 130px;
+        color: rgb(0, 255, 34);
+    }
+    .btn2 {
+        padding-left: 30px;
+        padding-top: 30px;
+        color: rgb(255, 0, 234);
+    }
+    .btn1 {
+        position: fixed;
+        padding-left: 190px;
+        padding-top: 30px;
+        color: rgb(0, 17, 255);
+    }
+
+}
