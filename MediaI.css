@@ -84,14 +84,14 @@
             font-size: 100px;
         }
         .btn2 {
-            padding-left: 100px;
+            padding-left: 50px;
             padding-top: 100px;
             color: rgb(255, 0, 234);
             font-size: 80px;
         }
         .btn1 {
             position: fixed;
-            padding-left: 700px;
+            padding-left: 620px;
             padding-top: 100px;
             color: rgb(0, 17, 255);
             font-size: 80px;
@@ -223,7 +223,7 @@
             padding-top: 0px;
         }
         .btn {
-            padding-bottom: 200px;
+            padding-bottom: 180px;
             padding-top: 50px;
             padding-left: 100px;
             color: rgb(0, 255, 34);
@@ -273,19 +273,25 @@
     .btn {
         padding-bottom: 50px;
         padding-top: 50px;
-        padding-left: 130px;
+        padding-left: 80px;
         color: rgb(0, 255, 34);
+        font-size: 50px;
+
     }
     .btn2 {
-        padding-left: 30px;
-        padding-top: 90px;
+        padding-left: 10px;
+        padding-top: 70px;
         color: rgb(255, 0, 234);
+        font-size: 30px;
+
     }
     .btn1 {
         position: fixed;
-        padding-left: 220px;
-        padding-top: 90px;
+        padding-left: 230px;
+        padding-top: 70px;
         color: rgb(0, 17, 255);
+        font-size: 30px;
+
     }
 }
 @media (max-width: 360px){
@@ -318,18 +324,18 @@
         .btn {
             padding-bottom: 50px;
             padding-top: 50px;
-            padding-left: 130px;
+            padding-left: 80px;
             color: rgb(0, 255, 34);
         }
         .btn2 {
-            padding-left: 30px;
-            padding-top: 90px;
+            padding-left: 10px;
+            padding-top: 50px;
             color: rgb(255, 0, 234);
         }
         .btn1 {
             position: fixed;
             padding-left: 220px;
-            padding-top: 90px;
+            padding-top: 50px;
             color: rgb(0, 17, 255);
         }
     }
@@ -351,7 +357,7 @@
     h2 {
         font-size: 30px;
         padding-left: 30px;
-        padding-top: 80px;
+        padding-top: 50px;
         padding-bottom: 1px;
         margin: auto;
     }
@@ -363,19 +369,23 @@
     .btn {
         padding-bottom: 30px;
         padding-top: 20px;
-        padding-left: 130px;
+        padding-left: 50px;
         color: rgb(0, 255, 34);
+        font-size: 50px;
     }
     .btn2 {
-        padding-left: 30px;
+        padding-left: 10px;
         padding-top: 30px;
         color: rgb(255, 0, 234);
+        font-size: 25px;
     }
     .btn1 {
         position: fixed;
-        padding-left: 190px;
-        padding-top: 30px;
+        padding-left: 200px;
+        padding-top: 31px;
         color: rgb(0, 17, 255);
+        font-size: 25px;
+
     }
 
 }
